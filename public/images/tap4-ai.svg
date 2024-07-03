@@ -1,18 +1,20 @@
-<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g id="Group 238179">
-<g id="Group 238178">
-<path id="Union" d="M16 20V28.3333H25.3673V49H27.8537H33.6327" stroke="url(#paint0_linear_4962_18104)" stroke-opacity="0.4"/>
-<path id="Union_2" d="M30.102 25.5H19.5V16.5H22.122H23.6829H25.2439H50.5V24.6842V25.5H39.898H39.398V26V45.5H33.8293H30.602V26V25.5H30.102Z" stroke="url(#paint1_linear_4962_18104)"/>
-</g>
-</g>
-<defs>
-<linearGradient id="paint0_linear_4962_18104" x1="29.5" y1="20" x2="29.5" y2="45" gradientUnits="userSpaceOnUse">
-<stop offset="0.673717" stop-color="white"/>
-<stop offset="1" stop-color="#FFEA9F"/>
-</linearGradient>
-<linearGradient id="paint1_linear_4962_18104" x1="36.1707" y1="46" x2="36.1707" y2="16" gradientUnits="userSpaceOnUse">
-<stop stop-color="#FFEA9F"/>
-<stop offset="0.389316" stop-color="white"/>
-</linearGradient>
-</defs>
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024">
+	<title>AI (2)-svg</title>
+	<style>
+		.s0 { fill: #f8c642 } 
+		.s1 { fill: #7b49b6 } 
+		.s2 { fill: #fc3a64 } 
+		.s3 { fill: #ffffff } 
+	</style>
+	<path id="Layer" fill-rule="evenodd" class="s0" d="m716.4 652.2v-129.9h53.5v129.9zm138.3 0v-129.9h-84.9v129.9z"/>
+	<path id="Layer" class="s0" d="m772 782.1h-55.6v-129.9h55.6z"/>
+	<path id="Layer" class="s1" d="m842.8 782.1h-72.9v-129.9h84.9v117.9c0 1.6-0.4 3.1-1 4.6-0.6 1.4-1.4 2.8-2.6 3.9-1.1 1.1-2.4 2-3.8 2.6-1.5 0.6-3 0.9-4.6 0.9z"/>
+	<path id="Layer" class="s2" d="m836.6 522.3h-120.2v-130h120.2z"/>
+	<path id="Layer" class="s3" d="m854.8 522.3h-65.3v-130h65.3z"/>
+	<path id="Layer" fill-rule="evenodd" class="s0" d="m348.5 692.7l-20.2 89h-159.1l127-522.2h224.1l120.4 522.2h-157.4l-20.5-89zm28-122.4h58.2l-28.7-127.7z"/>
+	<path id="Layer" class="s1" d="m296.2 259.5l-22.9 94.2h268.7l-21.7-94.2z"/>
+	<path id="Layer" class="s2" d="m220.6 570.2h214.1l28.1 122.5h-272z"/>
+	<path id="Layer" class="s3" d="m406 442.6h156.5l29.4 127.6h-157.2z"/>
+	<path id="Layer" class="s2" d="m718.6 241.9h134.1v47.6h-134.1z"/>
+	<path id="Layer" class="s2" d="m718.6 288.1h134.1v47.6h-134.1z"/>
 </svg>
