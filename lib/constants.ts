@@ -21,10 +21,10 @@ export const RevalidateOneMonth = 3600 * 24 * 30;
 export const PAGE_SIZE = 20;
 export const InfoPageSize = 12;
 
-export const FORM_PLACEHOLDER = 'https://tap4.ai/';
+export const FORM_PLACEHOLDER = 'https://www.ainavhub.com/';
 
 export const WEBSITE_EXAMPLE =
-  '<a href="https://tap4.ai/" title="Tap4 AI Tools Directory">Tap4 AI Tools Diresctory</a>';
+  '<a href="https://www.ainavhub.com/" title="AI Tools Navigation">AI Tools Navigation</a>';
 
 export const STARTUP_LIST = [
   {
@@ -302,8 +302,8 @@ export const STARTUP_LIST = [
   },
   {
     DA: 38,
-    Website: 'Tap4 AI',
-    URL: 'https://tap4.ai/submit',
+    Website: 'AI Tools Navigation',
+    URL: 'https://www.ainavhub.com/submit',
     Price: 'Free',
     Tag: 'AI',
   },

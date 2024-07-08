@@ -1,15 +1,15 @@
 INSERT INTO public.web_navigation (
-    name, 
-    title, 
-    content, 
-    detail, 
-    url, 
-    image_url, 
-    thumbnail_url, 
-    collection_time, 
-    tag_name, 
-    website_data, 
-    star_rating, 
+    name,
+    title,
+    content,
+    detail,
+    url,
+    image_url,
+    thumbnail_url,
+    collection_time,
+    tag_name,
+    website_data,
+    star_rating,
     category_name
 ) VALUES (
     '123rf-com',
@@ -27,17 +27,17 @@ INSERT INTO public.web_navigation (
 );
 
 INSERT INTO public.web_navigation (
-    name, 
-    title, 
-    content, 
-    detail, 
-    url, 
-    image_url, 
-    thumbnail_url, 
-    collection_time, 
-    tag_name, 
-    website_data, 
-    star_rating, 
+    name,
+    title,
+    content,
+    detail,
+    url,
+    image_url,
+    thumbnail_url,
+    collection_time,
+    tag_name,
+    website_data,
+    star_rating,
     category_name
 ) VALUES (
     'adobe-com',
@@ -55,16 +55,16 @@ INSERT INTO public.web_navigation (
 );
 
 INSERT INTO public.web_navigation (
-    name, 
-    title, 
-    content, 
-    detail, 
-    url, 
-    image_url, 
-    thumbnail_url, 
-    collection_time, 
-    website_data, 
-    star_rating, 
+    name,
+    title,
+    content,
+    detail,
+    url,
+    image_url,
+    thumbnail_url,
+    collection_time,
+    website_data,
+    star_rating,
     category_name
 ) VALUES (
     'imglarger-com',
@@ -101,17 +101,17 @@ If the 10 free credits per month are insufficient for your needs and you heavily
 );
 
 INSERT INTO public.web_navigation (
-    name, 
-    title, 
-    content, 
-    detail, 
-    url, 
-    image_url, 
-    thumbnail_url, 
-    collection_time, 
-    tag_name, 
-    website_data, 
-    star_rating, 
+    name,
+    title,
+    content,
+    detail,
+    url,
+    image_url,
+    thumbnail_url,
+    collection_time,
+    tag_name,
+    website_data,
+    star_rating,
     category_name
 ) VALUES (
     'aigirl-best',
@@ -130,17 +130,17 @@ INSERT INTO public.web_navigation (
 
 
 INSERT INTO public.web_navigation (
-    name, 
-    title, 
-    content, 
-    detail, 
-    url, 
-    image_url, 
-    thumbnail_url, 
-    collection_time, 
-    tag_name, 
-    website_data, 
-    star_rating, 
+    name,
+    title,
+    content,
+    detail,
+    url,
+    image_url,
+    thumbnail_url,
+    collection_time,
+    tag_name,
+    website_data,
+    star_rating,
     category_name
 ) VALUES (
     'beta-character-ai',
@@ -158,17 +158,17 @@ INSERT INTO public.web_navigation (
 );
 
 INSERT INTO public.web_navigation (
-    name, 
-    title, 
-    content, 
-    detail, 
-    url, 
-    image_url, 
-    thumbnail_url, 
-    collection_time, 
-    tag_name, 
-    website_data, 
-    star_rating, 
+    name,
+    title,
+    content,
+    detail,
+    url,
+    image_url,
+    thumbnail_url,
+    collection_time,
+    tag_name,
+    website_data,
+    star_rating,
     category_name
 ) VALUES (
     'capcut-com',
@@ -187,17 +187,17 @@ INSERT INTO public.web_navigation (
 
 
 INSERT INTO public.web_navigation (
-    name, 
-    title, 
-    content, 
-    detail, 
-    url, 
-    image_url, 
-    thumbnail_url, 
-    collection_time, 
-    tag_name, 
-    website_data, 
-    star_rating, 
+    name,
+    title,
+    content,
+    detail,
+    url,
+    image_url,
+    thumbnail_url,
+    collection_time,
+    tag_name,
+    website_data,
+    star_rating,
     category_name
 ) VALUES (
     'artiversehub-ai',
@@ -215,17 +215,17 @@ INSERT INTO public.web_navigation (
 );
 
 INSERT INTO public.web_navigation (
-    name, 
-    title, 
-    content, 
-    detail, 
-    url, 
-    image_url, 
-    thumbnail_url, 
-    collection_time, 
-    tag_name, 
-    website_data, 
-    star_rating, 
+    name,
+    title,
+    content,
+    detail,
+    url,
+    image_url,
+    thumbnail_url,
+    collection_time,
+    tag_name,
+    website_data,
+    star_rating,
     category_name
 ) VALUES (
     'deepl-com',
@@ -244,17 +244,17 @@ INSERT INTO public.web_navigation (
 
 
 INSERT INTO public.web_navigation (
-    name, 
-    title, 
-    content, 
-    detail, 
-    url, 
-    image_url, 
-    thumbnail_url, 
-    collection_time, 
-    tag_name, 
-    website_data, 
-    star_rating, 
+    name,
+    title,
+    content,
+    detail,
+    url,
+    image_url,
+    thumbnail_url,
+    collection_time,
+    tag_name,
+    website_data,
+    star_rating,
     category_name
 ) VALUES (
     'force-com',
@@ -295,17 +295,17 @@ If the free usage limits do not meet your needs and you heavily rely on Salesfor
 
 
 INSERT INTO public.web_navigation (
-    name, 
-    title, 
-    content, 
-    detail, 
-    url, 
-    image_url, 
-    thumbnail_url, 
-    collection_time, 
-    tag_name, 
-    website_data, 
-    star_rating, 
+    name,
+    title,
+    content,
+    detail,
+    url,
+    image_url,
+    thumbnail_url,
+    collection_time,
+    tag_name,
+    website_data,
+    star_rating,
     category_name
 ) VALUES (
     'gamma-app',
@@ -349,17 +349,17 @@ Gamma offers a free trial, and users can sign up for free to explore its feature
 
 
 INSERT INTO public.web_navigation (
-    name, 
-    title, 
-    content, 
-    detail, 
-    url, 
-    image_url, 
-    thumbnail_url, 
-    collection_time, 
-    tag_name, 
-    website_data, 
-    star_rating, 
+    name,
+    title,
+    content,
+    detail,
+    url,
+    image_url,
+    thumbnail_url,
+    collection_time,
+    tag_name,
+    website_data,
+    star_rating,
     category_name
 ) VALUES (
     'animegirl-studio',
@@ -427,17 +427,17 @@ Please check our pricing page for more information.',
 
 
 INSERT INTO public.web_navigation (
-    name, 
-    title, 
-    content, 
-    detail, 
-    url, 
-    image_url, 
-    thumbnail_url, 
-    collection_time, 
-    tag_name, 
-    website_data, 
-    star_rating, 
+    name,
+    title,
+    content,
+    detail,
+    url,
+    image_url,
+    thumbnail_url,
+    collection_time,
+    tag_name,
+    website_data,
+    star_rating,
     category_name
 ) VALUES (
     'gemini-google-com',
@@ -512,7 +512,7 @@ Instagram Summit 2023 is a 2-day virtual event where you can learn hyper-growth 
      NULL,
     NULL,
     0,
-    'education' 
+    'education'
 );
 
 INSERT INTO public.web_navigation (
@@ -666,7 +666,7 @@ Yes, SoulGen produces photos based on your description, and unique text will mak
     'https://img.tap4.ai/tools/2024/6/13/soulgen-net-1718238602.png',
     'https://img.tap4.ai/tools/2024/6/13/soulgen-net-thumbnail-1718238605.png',
     '2024-06-12 08:30:10',
-    NULL, 
+    NULL,
     0,
     'design-art'
 );
@@ -1069,7 +1069,7 @@ We offer a range of pricing plans to fit your needs:
     'https://img.tap4.ai/tools/2024/6/15/askyourpdf-com-1718420826.png',
     'https://img.tap4.ai/tools/2024/6/15/askyourpdf-com-thumbnail-1718420829.png',
     '2024-06-15 09:07:13',
-    NULL, 
+    NULL,
     0,
     'productivity'
 );
@@ -1281,7 +1281,7 @@ You can `/animate` a static character with a text motion prompt.
 * Utilize the power of JST-1 for controllable video generation
 
 ### Price
-* Join the beta and explore features of Viggle 
+* Join the beta and explore features of Viggle
 
 ### Testimonials
 * "Loved by creators"',
@@ -1444,27 +1444,27 @@ Our subscription options are designed to be affordable and accessible to everyon
 INSERT INTO public.web_navigation (
     name, title, content, detail, url, image_url, thumbnail_url, collection_time, tag_name, website_data, star_rating, category_name
 ) VALUES (
-    'tap4-ai',
-    'Tap4 AI Tools Directory',
+    'ainavhub-com',
+    'AI Tools Navigation',
     'We believe our research will eventually lead to artificial general intelligence, a system that can solve human-level problems. Building safe and beneficial AGI is our mission.',
     '
-### What is tap4.ai?
+### What is ainavhub.com?
 
-tap4.ai is an AI-driven platform that provides access to a vast array of AI technologies for various needs, including ChatGPT, GPT-4o for text generation and image understanding, and Dalle3 for image creation and document analysis.
+ainavhub.com is an AI-driven platform that provides access to a vast array of AI technologies for various needs, including ChatGPT, GPT-4o for text generation and image understanding, and Dalle3 for image creation and document analysis.
 
-### How can I use GPT-4o for free on tap4.ai?
+### How can I use GPT-4o for free on ainavhub.com?
 
-Every user can utilize GPT-4o for free up to 20 times a day on tap4.ai. Subscribing to the platform grants additional benefits and extended access beyond the free usage limits.
+Every user can utilize GPT-4o for free up to 20 times a day on ainavhub.com. Subscribing to the platform grants additional benefits and extended access beyond the free usage limits.
 
-### Can I generate images using tap4.ai?
+### Can I generate images using ainavhub.com?
 
 Yes, with Dalle3 text-to-image generation capability, users can create images, sharing credits with GPT-4o for a seamless creative experience.
 
-### How many GPTs are available on tap4.ai?
+### How many GPTs are available on ainavhub.com?
 
-tap4.ai offers nearly 200,000 GPT models for a wide variety of applications in work, study, and everyday life. You can freely use these GPTs without the need for a ChatGPT Plus subscription.
+ainavhub.com offers nearly 200,000 GPT models for a wide variety of applications in work, study, and everyday life. You can freely use these GPTs without the need for a ChatGPT Plus subscription.
 
-### How can I maximize my use of tap4.ai AI services?
+### How can I maximize my use of ainavhub.com AI services?
 
 By leveraging the daily free uses of GPT-4o document reading, and Dalle image generation, users can explore a vast range of AI-powered tools to support various tasks.
 
@@ -1472,10 +1472,10 @@ By leveraging the daily free uses of GPT-4o document reading, and Dalle image ge
 
 We highly value user privacy, and your data will not be used for any training purposes. If needed, you can delete your account at any time, and all your data will be removed as well.
 
-### When would I need a tap4.ai subscription?
+### When would I need a ainavhub.com subscription?
 
 If the 20 free GPT-4o conversations per day do not meet your needs and you heavily rely on GPT-4o, we invite you to subscribe to our affordable products.',
-    'https://tap4.ai/',
+    'https://ainavhub.com/',
     'https://img.tap4.ai/tools/2024/6/17/openai-com-1718632263.png',
     'https://img.tap4.ai/tools/2024/6/17/openai-com-thumbnail-1718632268.png',
     '2024-06-17 18:51:17',
@@ -1498,7 +1498,7 @@ TopFree.ai is an AI-driven platform that provides access to a vast array of AI t
 
 ### How can I use GPT-4o for free on TopFree.ai?
 
-Every user can utilize GPT-4o for free up to 20 times a day on tap4.ai. Subscribing to the platform grants additional benefits and extended access beyond the free usage limits.
+Every user can utilize GPT-4o for free up to 20 times a day on ainavhub.com. Subscribing to the platform grants additional benefits and extended access beyond the free usage limits.
 
 ### Can I generate images using TopFree.ai?
 
@@ -1599,30 +1599,30 @@ INSERT INTO public.web_navigation (
     'introducing sora: creating video from text',
     'introducing sora: creating video from text',
     '
-### What is tap4.ai?
-tap4.ai is an AI-driven platform that provides access to a vast array of AI technologies for various needs, including ChatGPT, GPT-4o for text generation and image understanding, Dalle3 for image creation and document analysis.
+### What is ainavhub.com?
+ainavhub.com is an AI-driven platform that provides access to a vast array of AI technologies for various needs, including ChatGPT, GPT-4o for text generation and image understanding, Dalle3 for image creation and document analysis.
 
 ### How
-#### How can I use GPT-4o for free on tap4.ai?
-Every user can utilize GPT-4o for free up to 20 times a day on tap4.ai. Subscribing to the platform grants additional benefits and extended access beyond the free usage limits.
+#### How can I use GPT-4o for free on ainavhub.com?
+Every user can utilize GPT-4o for free up to 20 times a day on ainavhub.com. Subscribing to the platform grants additional benefits and extended access beyond the free usage limits.
 
-#### Can I generate images using tap4.ai?
+#### Can I generate images using ainavhub.com?
 Yes, with Dalle3 text-to-image generation capability, users can create images, sharing credits with GPT-4o for a seamless creative experience.
 
-#### How many GPTs are available on tap4.ai?
-tap4.ai offers nearly 200,000 GPT models for a wide variety of applications in work, study, and everyday life. You can freely use these GPTs without the need for a ChatGPT Plus subscription.
+#### How many GPTs are available on ainavhub.com?
+ainavhub.com offers nearly 200,000 GPT models for a wide variety of applications in work, study, and everyday life. You can freely use these GPTs without the need for a ChatGPT Plus subscription.
 
-#### How can I maximize my use of tap4.ai AI services?
+#### How can I maximize my use of ainavhub.com AI services?
 By leveraging the daily free uses of GPT-4o document reading, and Dalle image generation, users can explore a vast range of AI-powered tools to support various tasks.
 
 #### Will my information be used for your training data?
 We highly value user privacy, and your data will not be used for any training purposes. If needed, you can delete your account at any time, and all your data will be removed as well.
 
-#### When would I need a tap4.ai subscription?
+#### When would I need a ainavhub.com subscription?
 If the 20 free GPT-4o conversations per day do not meet your needs and you heavily rely on GPT-4o, we invite you to subscribe to our affordable products.
 
 ### Feature
-#### Key Features of tap4.ai
+#### Key Features of ainavhub.com
 * Access to a vast array of AI technologies
 * GPT-4o for text generation and image understanding
 * Dalle3 for image creation
