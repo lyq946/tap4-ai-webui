@@ -36,10 +36,10 @@ export default function Footer() {
       title: t('ainavhub'),
       href: 'https://www.ainavhub.com',
     },
-    {
+    /* {
       title: t('tattoo'),
       href: 'https://tattooai.design',
-    },
+    }, */
   ];
 
   const INFO_LIST = [
